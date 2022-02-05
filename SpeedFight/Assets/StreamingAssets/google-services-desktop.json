@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012929537694",
+    "firebase_url": "https://speedfight-d4751.firebaseio.com",
+    "project_id": "speedfight-d4751",
+    "storage_bucket": "speedfight-d4751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012929537694:android:b80954a3f1d6b729da7d8f",
+        "android_client_info": {
+          "package_name": "com.amit.SpeedFight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012929537694-v3gth6ssjf7rg84uiu0vq3ui81j2gjfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCREU_utKqt2PxiWk6dk1a2dybQ1kbkkHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012929537694-v3gth6ssjf7rg84uiu0vq3ui81j2gjfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

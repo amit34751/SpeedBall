@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://speedfight-d4751.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">1012929537694</string>
+  <string name="google_storage_bucket" translatable="false">speedfight-d4751.appspot.com</string>
+  <string name="project_id" translatable="false">speedfight-d4751</string>
+  <string name="google_api_key" translatable="false">AIzaSyCREU_utKqt2PxiWk6dk1a2dybQ1kbkkHc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCREU_utKqt2PxiWk6dk1a2dybQ1kbkkHc</string>
+  <string name="google_app_id" translatable="false">1:1012929537694:android:b80954a3f1d6b729da7d8f</string>
+  <string name="default_web_client_id" translatable="false">1012929537694-v3gth6ssjf7rg84uiu0vq3ui81j2gjfb.apps.googleusercontent.com</string>
+</resources>
